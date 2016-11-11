@@ -2,7 +2,7 @@
 
 A very basic restify skeleton to build up simple API's.
 
-## Basic run run
+## Basic run
 - Run `npm install`, then
 - Run `node app/index`
 - Open your terminal and run: `curl localhost:7001`
