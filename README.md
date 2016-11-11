@@ -1,4 +1,4 @@
-"# Restify Basic Skeleton"
+# Restify Basic Skeleton
 
 A very basic restify skeleton to build up simple API's.
 
