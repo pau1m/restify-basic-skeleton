@@ -24,7 +24,7 @@ The file structure used is:
 
 All `req's` will contain a bunyan log by default. Simple example:
 
-```
+```javascript
 ...
 var log = req.log;
 log.info('Using an awesome bunyan log');
