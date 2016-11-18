@@ -17,7 +17,7 @@ The file structure used is:
     - controllers
     - middlewares
     - services
- - index.js
+    - index.js
 ```
 
 #### Logs
