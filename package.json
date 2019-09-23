@@ -13,7 +13,7 @@
   "author": "Marcos Silva",
   "license": "ISC",
   "dependencies": {
-    "restify": "^4.2.0",
+    "restify": "^8.1.0",
     "uuid": "^2.0.3"
   },
   "devDependencies": {
